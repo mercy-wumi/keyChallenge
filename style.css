@@ -16,6 +16,9 @@ body {
     margin-bottom: 10px;
     cursor: pointer;
 }
+span {
+    color: red
+}
 #key-detection {
     padding: 20px;
     z-index: 200;
